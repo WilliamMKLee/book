@@ -82,8 +82,7 @@ cli_cat.py  hello.txt  mytmp
 
 How to prevent it
 
-escape `'`, `"` and '\'
-
+escape `'`, `"` and `\`
 
 ```py
 """
